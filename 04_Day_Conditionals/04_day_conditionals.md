@@ -39,7 +39,7 @@ By default , statements in JavaScript script executed sequentially from top to b
 - Conditional execution: a block of one or more statements will be executed if a certain expression is true
 - Repetitive execution: a block of one or more statements will be repetitively executed as long as a certain expression is true. In this section, we will cover _if_, _else_ , _else if_ statements. The comparison and logical operators we learned in the previous sections will be useful in here.
 
-Conditions can be implementing using the following ways:
+Conditions can be implemented using the following:
 
 - if
 - if else
